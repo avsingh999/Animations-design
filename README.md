@@ -1,10 +1,6 @@
 # Animations-design
 This repository contain your first any css/js animation or design
-
-
-
-
-<p> [.......................................................................] <img src="https://static1.squarespace.com/static/580394d6d2b857996ca8df7a/580777bfebbd1a790b791a36/58077ee3e6f2e13839d2277d/1476886246869/HAND-ANIMATION-LOOP.gif" height="300px;"></p>
+<p><img src="https://static1.squarespace.com/static/580394d6d2b857996ca8df7a/580777bfebbd1a790b791a36/58077ee3e6f2e13839d2277d/1476886246869/HAND-ANIMATION-LOOP.gif" height="300px;"></p>
 
 
 
