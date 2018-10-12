@@ -11,3 +11,4 @@ This repository contain your first any css/js animation or design
 - create a pull request
 
 ### Example
+- [infinity-logo](https://github.com/avsingh999/Animations-design/tree/master/infinity-logo)
